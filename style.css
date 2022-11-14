@@ -18,7 +18,8 @@ nav {
     margin-top: 50px;
     border-radius: 25px;
     position: fixed;
-    align-self: center;
+    padding-inline: -50em;
+    margin-inline: 27em;
 }
 .nav-h {
     list-style: none;
@@ -359,11 +360,6 @@ p {
     }
 }
 
-.luany {
-    margin-bottom: 7px;
-    margin-right: 7px;
-    bottom: 0;
-    position: fixed;
-    right: 0;
-    color: rgba(59, 78, 97, .5);
+#libro1 {
+    z-index: 1;
 }
