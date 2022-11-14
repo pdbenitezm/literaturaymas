@@ -361,5 +361,8 @@ p {
 }
 
 #libro1 {
-    z-index: 1;
+    width: 100px;
+    float: center;
+    clear: both;
+    padding-left: 35%;
 }
